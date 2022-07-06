@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 I'm a software engineer from the [Silicon Mountain](https://en.wikipedia.org/wiki/Silicon_Mountain),  I have experience building robust, scalable and efficient software with dotnet, C#, Xamarin, ASP.net core and Angular 2+.
 I love coding and I've touched a lot of frameworks and languages, but I always return to my beloved C# and dotnet. I blog and share code, you can follow me to stay tuned :-)
 
+<!--
 [![MVP Profile](https://img.shields.io/badge/MVP-Developer%20Technologies%20🏆-blue?style=flat&logo=microsoft)](https://mvp.microsoft.com/en-us/PublicProfile/5003277) &nbsp;
+-->
+
 [![Twitter follow @Damien_Doumer](https://img.shields.io/twitter/follow/Damien_Doumer?style=social)](https://twitter.com/Damien_Doumer) &nbsp;
 [![Linkedin follow @damien-doumer-58015b128](https://img.shields.io/badge/-DamienDoumer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/damien-doumer-58015b128/)](https://www.linkedin.com/in/damien-doumer-58015b128/) &nbsp;
 [![Blog](https://img.shields.io/badge/Blog-doumer.me-brightgreen)](https://www.doumer.me/) &nbsp;
