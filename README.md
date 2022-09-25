@@ -22,7 +22,7 @@ I love coding and I've touched a lot of frameworks and languages, but I always r
 [![MVP Profile](https://img.shields.io/badge/MVP-Developer%20Technologies%20🏆-blue?style=flat&logo=microsoft)](https://mvp.microsoft.com/en-us/PublicProfile/5003277) &nbsp;
 -->
 
-[![Profile views](https://komarev.com/ghpvc/?username=jsuarezruiz&style=flat-square)](https://github.com/damiendoumer)
+[![Profile views](https://komarev.com/ghpvc/?username=damiendoumer&style=flat-square)](https://github.com/damiendoumer)
 [![Twitter follow @Damien_Doumer](https://img.shields.io/twitter/follow/Damien_Doumer?style=social)](https://twitter.com/Damien_Doumer) &nbsp;
 [![Linkedin follow @damien-doumer-58015b128](https://img.shields.io/badge/-DamienDoumer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/damien-doumer-58015b128/)](https://www.linkedin.com/in/damien-doumer-58015b128/) &nbsp;
 [![Blog](https://img.shields.io/badge/Blog-doumer.me-brightgreen)](https://www.doumer.me/) &nbsp;
