@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[I'm an award winning software engineer](https://doumer.me/about-damien-doumer/) from the [Silicon Mountain](https://en.wikipedia.org/wiki/Silicon_Mountain), I have experience building __robust, scalable and efficient software used by millions of people world wide with dotnet, C#, TypeScript, Xamarin, ASP.net core and Angular 2+.__
+[I'm an award winning software engineer](https://doumer.me/about-damien-doumer/) from the [Silicon Mountain](https://en.wikipedia.org/wiki/Silicon_Mountain), I have experience building __robust, scalable and efficient software used by millions of people world wide with dotnet, C#, ASP.net core, Xamarin, Flutter and Angular 2+.__
 I love coding and I've touched a lot of frameworks and languages, but I always return to my beloved C# and dotnet framework. 
 [I publish technical articles regularly](https://doumer.me/), I share code samples and contribute to opensource too, you can follow me to stay tuned ;-)
 
