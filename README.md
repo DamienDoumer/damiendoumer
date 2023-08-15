@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 [I'm an award winning software engineer](https://doumer.me/about-damien-doumer/) from the [Silicon Mountain](https://en.wikipedia.org/wiki/Silicon_Mountain), I have experience building __robust, scalable and efficient software used by millions of people world wide with dotnet, C#, ASP.net core, Xamarin, Flutter and Angular 2+.__
 I love coding and I've touched a lot of frameworks and languages, but I always return to my beloved C# and dotnet framework. 
-[I publish technical articles regularly](https://doumer.me/), I share code samples and contribute to opensource too, you can follow me to stay tuned ;-)
+[I publish technical articles regularly](https://doumer.me/), [And I host a podcast (In French) about the rise of the world's most impactfull people](doumer.me/podcast).
+I share code samples and contribute to opensource too, you can follow me to stay tuned ;-)
 
 <!--
 [![MVP Profile](https://img.shields.io/badge/MVP-Developer%20Technologies%20🏆-blue?style=flat&logo=microsoft)](https://mvp.microsoft.com/en-us/PublicProfile/5003277) &nbsp;
